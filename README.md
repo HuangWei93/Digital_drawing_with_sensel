@@ -35,20 +35,32 @@
 ![](pencil_with_gyro.jpeg)
 ## Collecting dataset
 ### generate raw dataset
+```
 python generate_input image_id 
 python frame.py
+```
 ### process dataset
+```
 python modify_coords.py 
+```
 ### crop images
+```
 python image_processing.py
+```
 ### collecting textures
+```
 python construct_dataset.py size_of_windows overlap_rate
+```
 ### classify textures by kmeans
+```
 python  kmeans_clustering_paras.py
 python  kmeans_clustering_textures.py
+```
 ###  reconstruct stroke
+```
 python reconstruct_stroke_with_eqdist_by_clustering_paras.py size_of_windows overlap_rate
 python reconstruct_stroke_with_eqdist_by_search.py size_of_windows overlap_rate
+```
 
 ## Graphite-Pencil Model
 Compile main.cpp 
