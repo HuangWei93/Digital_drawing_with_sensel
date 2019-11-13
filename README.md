@@ -67,3 +67,5 @@
 `-- utils_sampling.py
 |-- Graphite-Pencil
 ```
+![](tablet.jpeg)
+![](pencil_with_gyro.jpeg)
