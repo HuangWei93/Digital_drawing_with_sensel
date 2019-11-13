@@ -1,6 +1,6 @@
 # Digital drawing with sensel
 
-##Structure
+###Structure
 ```
 |-- aruco_markers
 |   |-- aruco_marker.py
@@ -65,4 +65,5 @@
 |-- reconstructed_strokes_with_eqdist_by_search
 |   `-- reconstructed_image1.jpg
 `-- utils_sampling.py
+|-- Graphite-Pencil
 ```
