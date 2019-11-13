@@ -1,5 +1,5 @@
 # Computer vision part
-' ' '
+'''
 |-- aruco_markers
 |   |-- aruco_marker.py
 |   `-- generate_aruco_marker.ipynb
@@ -68,4 +68,4 @@
 |-- reconstructed_strokes_with_eqdist_by_search
 |   `-- reconstructed_image1.jpg
 `-- utils_sampling.py
-' ' '
+'''
