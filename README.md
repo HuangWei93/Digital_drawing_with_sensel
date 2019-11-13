@@ -34,6 +34,8 @@
 ### Pencil with gyro and ESP board
 ![](pencil_with_gyro.jpeg)
 ## Collecting dataset
+We are going to generate dataset:
+<coordinate-x, coordinate-y, velocity-x, velocity-y, force, original_phi, theta, modified_phi>
 ### generate raw dataset
 ```
 python generate_input image_id 
