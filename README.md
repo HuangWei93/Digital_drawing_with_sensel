@@ -67,5 +67,7 @@
 `-- utils_sampling.py
 |-- Graphite-Pencil
 ```
+###Sensel Morph Tablet 
 ![](tablet.jpeg)
+###Pencil with gyro and ESP board
 ![](pencil_with_gyro.jpeg)
