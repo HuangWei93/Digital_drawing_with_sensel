@@ -68,4 +68,5 @@
 |-- reconstructed_strokes_with_eqdist_by_search
 |   `-- reconstructed_image1.jpg
 `-- utils_sampling.py
+<<<<<<< HEAD
 ```
