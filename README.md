@@ -27,6 +27,7 @@
 |   |--reconstruct_stroke_with_eqdist_by_clustering_paras
 |   |--reconstructed_strokes_with_eqdist_by_search
 |-- Graphite-Pencil
+|-- GAN
 ```
 ## Hardware setup 
 ### Sensel Morph Tablet 
