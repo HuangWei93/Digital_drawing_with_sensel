@@ -1,12 +1,11 @@
-# Computer vision part
+# Digital drawing with sensel
+
+##Structure
 ```
 |-- aruco_markers
 |   |-- aruco_marker.py
 |   `-- generate_aruco_marker.ipynb
 |-- collecting_textures
-|   |-- __pycache__
-|   |   |-- calib.cpython-36.pyc
-|   |   `-- utils_sampling.cpython-36.pyc
 |   |-- animation_of_pixels
 |   |   `-- pixels_anim1.mp4
 |   |-- animation_pixels.py
@@ -59,8 +58,6 @@
 |   |-- modify_coords.py
 |   `-- plot_trail.py
 `-- reconstruct_stroke
-|-- __pycache__
-|   `-- utils_sampling.cpython-36.pyc
 |-- reconstruct_stroke_with_eqdist_by_clustering_paras
 |   `-- reconstruct_stroke_with_eqdist_by_clustering_paras1.jpg
 |-- reconstruct_stroke_with_eqdist_by_clustering_paras.py
@@ -68,5 +65,4 @@
 |-- reconstructed_strokes_with_eqdist_by_search
 |   `-- reconstructed_image1.jpg
 `-- utils_sampling.py
-<<<<<<< HEAD
 ```
