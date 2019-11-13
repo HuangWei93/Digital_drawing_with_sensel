@@ -1,10 +1,8 @@
 # Digital drawing with sensel
 
-###Structure
+## Structure
 ```
 |-- aruco_markers
-|   |-- aruco_marker.py
-|   `-- generate_aruco_marker.ipynb
 |-- collecting_textures
 |   |-- animation_of_pixels
 |   |-- camera_cal
@@ -20,7 +18,7 @@
 |   |-- classification
 |   |   |-- merged_images
 |   |   |-- paras
-|   |   `-- textures
+|   |   |-- textures
 |   |-- image_with_patches
 |-- generate_paras
 |   |-- inputs
@@ -29,9 +27,10 @@
 |   |--reconstruct_stroke_with_eqdist_by_clustering_paras
 |   |--reconstructed_strokes_with_eqdist_by_search
 |-- Graphite-Pencil
-|-- GAN
 ```
-###Sensel Morph Tablet 
+## Hardware setup 
+### Sensel Morph Tablet 
 ![](tablet.jpeg)
-###Pencil with gyro and ESP board
+### Pencil with gyro and ESP board
 ![](pencil_with_gyro.jpeg)
+
